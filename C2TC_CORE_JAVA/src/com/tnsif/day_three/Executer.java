@@ -1,4 +1,4 @@
-package com.tnsif.day_3;
+package com.tnsif.day_three;
 	import java.util.Scanner;
 
 	public class Executer {

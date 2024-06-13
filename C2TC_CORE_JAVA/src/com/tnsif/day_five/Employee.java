@@ -1,4 +1,4 @@
-package com.tnsif.day_5;
+package com.tnsif.day_five;
 
 public class Employee {
 	private String emp_name;

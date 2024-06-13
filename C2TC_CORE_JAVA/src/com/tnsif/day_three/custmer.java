@@ -1,4 +1,4 @@
-package com.tnsif.day_3;
+package com.tnsif.day_three;
 
 public class custmer {
 	private int customerId;

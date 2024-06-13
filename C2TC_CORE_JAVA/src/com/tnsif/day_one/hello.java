@@ -1,4 +1,4 @@
-package com.tnsif.day_1;
+package com.tnsif.day_one;
 
 public class hello {
 		public static void main(String[] args){

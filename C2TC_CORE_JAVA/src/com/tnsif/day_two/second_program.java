@@ -1,4 +1,4 @@
-package com.tnsif.day_2;
+package com.tnsif.day_two;
 
 public class second_program {
 		

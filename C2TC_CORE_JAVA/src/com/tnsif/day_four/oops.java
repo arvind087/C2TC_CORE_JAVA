@@ -1,4 +1,4 @@
-package com.tnsif.day_4;
+package com.tnsif.day_four;
 
 public class oops {
 	private String street;

@@ -1,4 +1,4 @@
-package com.tnsif.day_5;
+package com.tnsif.day_five;
 
 public class Manager extends Employee {
 	private int teamsize;

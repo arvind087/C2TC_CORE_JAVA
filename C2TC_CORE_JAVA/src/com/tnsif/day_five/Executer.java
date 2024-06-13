@@ -1,4 +1,4 @@
-package com.tnsif.day_5;
+package com.tnsif.day_five;
 
 public class Executer {
 	public static void main(String[] args) {
